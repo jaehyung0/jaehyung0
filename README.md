@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 <!--
@@ -44,8 +46,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/EXTJS-6DB33F?style=flat-square&logo=Sencha&logoColor=white">
 
-
+<br><br>
 ![jaehyung0's github stats](https://github-readme-stats.vercel.app/api?username=jaehyung0&show_icons=true)
 <br>
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyung0&theme=react&exclude_repo=class-source,jaehyung0)](https://github.com/jaehyung0)
+</div>
